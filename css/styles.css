@@ -1,0 +1,95 @@
+#logoutContainer
+{
+	position:relative;
+	background: none repeat scroll 0% 0% #E94E38;
+	padding: 1.5em 2em;
+	float:right;
+	width:90%;	
+}
+#logoutContainer2
+{
+	position:relative;
+	background: none repeat scroll 0% 0% #E94E38;
+	padding: 2.2em 2em;
+	float:right;
+	width:90%;	
+}
+#logoutContainer1
+{
+	position:relative;
+	background: none repeat scroll 0% 0% #E94E38;
+	padding: 1.52em 2em;
+	float:right;
+	width:27.69%;
+
+}
+
+
+#user
+{
+	color: #FFF;
+	margin-bottom:0px;
+	margin-top:-18px;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	padding: 0px 0px 0px 5px;
+	margin-left:20px;
+}
+#logoutButton img
+{
+	position:relative;
+	display:inline-block;
+	top:2px;
+	z-index:50;
+}
+#user a span
+{
+	padding: 0px 0px 0px 5px;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 0.9em;
+}
+#user a span:hover
+{
+	color:grey;
+}
+#courses:hover
+{
+	font-size:2px;
+}
+.dropdownn
+{
+	position: absolute;
+	height: 80px;
+	width: 340px;
+	display:none;
+	top: 80px;
+	z-index:100;
+	background-color:#808080;
+	left:0px;
+	margin-top:-10px;
+}
+.dropdownn a span
+{
+	color:#fff;
+	text-decoration:none;
+}
+.dropdownn a span:hover
+{
+	color:#E94E38;
+	text-decoration:none;
+}
+.dropdownn:after
+{
+	content: '';
+	position: absolute;
+	right: 25px;
+	top: -10px;
+	border-left:10px solid rgba(0, 0, 0, 0);
+	border-right:10px solid rgba(0, 0, 0, 0);
+	border-bottom: 10px solid #808080;
+}
+ul ,ul li
+{
+	list-style:none;
+}

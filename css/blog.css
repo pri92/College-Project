@@ -1,0 +1,125 @@
+.container12,
+.navbar-static-top .container12,
+.navbar-fixed-top .container12,
+.navbar-fixed-bottom .container12 {
+  width: 940px;
+}
+.container12 {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #E0E0E0;
+}
+.message_box{
+    width: 940px;
+    width:70%;
+
+    margin-right: auto;
+margin-left: auto;
+}
+#shout_msg{
+ width:934px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #E0E0E0;
+}   
+}
+.container1
+{
+
+  width: 799px;
+  height: 200px;
+}
+.form-horizontal textarea,
+.form-horizontal .help-inline,
+.form-horizontal .uneditable-input,
+.form-horizontal .input-prepend,
+.form-horizontal .input-append {
+  display: inline-block;
+  *display: inline;
+  margin-bottom: 0;
+  vertical-align: middle;
+  *zoom: 1;
+}
+.well {
+    border: medium none;
+    box-shadow: none;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #ECF0F1;
+    border: 1px solid #D7E0E2;
+    border-radius: 6px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) inset;
+   }
+   /*h4 {
+    font-size: 24px;
+    font-weight: 500;
+}
+ h4 {
+    margin: 10px 0px;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 20px;
+    color: inherit;
+    text-rendering: optimizelegibility;
+}*/
+.form-control {
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+textarea{
+    padding: 7px 6px;
+    text-indent: 1px;
+    border: 2px solid #DCE4EC;
+    border-radius: 6px;
+    box-shadow: none;
+}
+input, textarea, .uneditable-input {
+    margin-left: 0px;
+}
+textarea {
+    background-color: #FFF;
+    border: 1px solid #DCE4EC;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+}
+textarea {
+    height: auto;
+}
+ textarea, .uneditable-input {
+    width: 206px;
+}
+ textarea
+{
+    display: inline-block;
+    height: 20px;
+    padding: 4px 6px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    line-height: 20px;
+    color: #95A5A6;
+    vertical-align: middle;
+    border-radius: 6px;
+}
+ textarea {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+ textarea {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 20px;
+}
+textarea {
+    overflow: auto;
+    vertical-align: top;
+}
+ textarea {
+    margin: 0px;
+    font-size: 100%;
+    vertical-align: middle;
+}
